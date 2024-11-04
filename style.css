@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+#gameArea {
+    margin-top: 20px;
+    height: 400px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    position: relative;
+}
